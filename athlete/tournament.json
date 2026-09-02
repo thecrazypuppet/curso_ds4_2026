@@ -2,7 +2,7 @@
     {
         "name": "Mexico",
         "sport": {
-            "name": "Futbol",
+            "name": "Soccer",
             "league": "FIFA",
             "num_players": 11
         },
@@ -56,7 +56,7 @@
     {
         "name": "Argentina",
         "sport": {
-            "name": "Futbol",
+            "name": "Soccer",
             "league": "FIFA",
             "num_players": 11
         },
@@ -110,7 +110,7 @@
     {
         "name": "Peru",
         "sport": {
-            "name": "Futbol",
+            "name": "Soccer",
             "league": "FIFA",
             "num_players": 11
         },
@@ -164,7 +164,7 @@
     {
         "name": "France",
         "sport": {
-            "name": "Futbol",
+            "name": "Soccer",
             "league": "FIFA",
             "num_players": 11
         },
@@ -218,7 +218,7 @@
     {
         "name": "Spain",
         "sport": {
-            "name": "Futbol",
+            "name": "Soccer",
             "league": "FIFA",
             "num_players": 11
         },
@@ -272,7 +272,7 @@
     {
         "name": "Brazil",
         "sport": {
-            "name": "Futbol",
+            "name": "Soccer",
             "league": "FIFA",
             "num_players": 11
         },
@@ -326,7 +326,7 @@
     {
         "name": "Italia",
         "sport": {
-            "name": "Futbol",
+            "name": "Soccer",
             "league": "FIFA",
             "num_players": 11
         },
@@ -380,7 +380,7 @@
     {
         "name": "Japan",
         "sport": {
-            "name": "Futbol",
+            "name": "Soccer",
             "league": "FIFA",
             "num_players": 11
         },
