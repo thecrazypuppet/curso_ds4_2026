@@ -42,7 +42,9 @@ class Gameboard:
         """Update the scoreboard."""
         if player is not None:
             self.scoreboard[player] += 1
-
+    def reset_board(self):
+        """Reset the game"""
+        self.board = {x:str(x) for x in range(1,10)}
 if __name__ == "__main__":
     gameboard = Gameboard()
     gameboard.display_board()
