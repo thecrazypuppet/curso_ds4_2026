@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<head>
+    <tittle> My movie Database</tittle>
+</head>
+<body>
+    <h1>My Movie Database</h1>
+    <ul>
+        {% for movie in rows %}
+        <li>{{ movie.movie_tittle }} ({{ movie.release_date}})    </li>
+        {% endfor %}
+    </ul>
+</body>
+</html>
